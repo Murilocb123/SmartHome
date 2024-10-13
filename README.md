@@ -6,7 +6,7 @@
 ## Observações
 - Foi documentado somente o backend, e o frontend o componente sala pois a partir dele foi seguido a mesma logica para os demais componentes.
 - No componente cozinha foi implementado o envio de eventos para simular a temperatura da geladeira somente quando a mesma está ligada.
-- quando a geladeira atinge a temperatura maior que 5 graus é adicionado uma mensagem de alerta *** CASO A TEMPERATURA ESTIVER DESCENDO AO INVES DE SUBIR LIGUE E DESLIGUE A GELADEIRA ***
+- quando a geladeira atinge a temperatura maior que 5 graus é adicionado uma mensagem de alerta ***CASO A TEMPERATURA ESTIVER DESCENDO AO INVES DE SUBIR LIGUE E DESLIGUE A GELADEIRA***
 - 
 
 ## Como usar
