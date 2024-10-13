@@ -4,7 +4,7 @@
 - foi utilizado o framework React para o frontend e a biblioteca de componentes *PrimeReact*
 
 ## Observações
-- Foi documentado somente o backend, pois o e o frontend o componente sala pois a partir dele foi seguido a mesma logica para os demais componentes.
+- Foi documentado somente o backend, e o frontend o componente sala pois a partir dele foi seguido a mesma logica para os demais componentes.
 - No componente cozinha foi implementado o envio de eventos para simular a temperatura da geladeira somente quando a mesma está ligada.
 - quando a geladeira atinge a temperatura maior que 5 graus é adicionado uma mensagem de alerta
 
