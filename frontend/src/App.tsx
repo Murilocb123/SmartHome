@@ -25,9 +25,17 @@ const App: React.FC = () => {
     );
   }
 
+  const footer = () => {
+    return (
+      <div className="flex justify-content-center">
+        <span className="text-center">© 2024 - Smart Home - Murilo Costa Bittencourt</span>
+      </div>
+    );
+  }
+
   return (
     <div className="p-3">
-      <Panel headerTemplate={headerWithAvatar}>
+      <Panel headerTemplate={headerWithAvatar} footerTemplate={footer}>
 
         <TabView>
           <TabPanel header="Sala" >

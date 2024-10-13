@@ -87,8 +87,7 @@ io.on('connection', (socket) => {
         }
     });
 
-
-
+    // Função para enviar a temperatura da geladeira de forma aleatória aplicando algumas regras
     async function enviarTemperaturaGeladeira() {
         let verificacao = Math.random() - 0.2;
         console.log(verificacao);
