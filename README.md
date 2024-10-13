@@ -1,6 +1,6 @@
 # Smart Home
 ## Descrição
-Projeto desenvolvido para atividade na materia de *"Linguagem de Programação e Paradigmas"*
+- Projeto desenvolvido para atividade na materia de *"Linguagem de Programação e Paradigmas"*
 - foi utilizado o framework React para o frontend e a biblioteca de componentes *PrimeReact*
 
 ## Observações
